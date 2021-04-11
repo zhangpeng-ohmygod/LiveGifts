@@ -15,6 +15,10 @@
 		18682E9F262213FC00EFBD09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18682E9D262213FC00EFBD09 /* LaunchScreen.storyboard */; };
 		18682EAA262213FC00EFBD09 /* _______Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18682EA9262213FC00EFBD09 /* _______Tests.swift */; };
 		18682EB5262213FC00EFBD09 /* _______UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18682EB4262213FC00EFBD09 /* _______UITests.swift */; };
+		18682EDF2622175900EFBD09 /* ZPGiftModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18682EDE2622175900EFBD09 /* ZPGiftModel.swift */; };
+		18682EE72622177C00EFBD09 /* ZPGiftChannelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18682EE62622177C00EFBD09 /* ZPGiftChannelView.swift */; };
+		18682EEF2622179700EFBD09 /* ZPGiftDigitLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18682EEE2622179700EFBD09 /* ZPGiftDigitLabel.swift */; };
+		18682EF4262217CE00EFBD09 /* ZPGiftContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18682EF3262217CE00EFBD09 /* ZPGiftContainerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		18682EB0262213FC00EFBD09 /* 直播送礼物部件UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "直播送礼物部件UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18682EB4262213FC00EFBD09 /* _______UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_______UITests.swift"; sourceTree = "<group>"; };
 		18682EB6262213FC00EFBD09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18682EDE2622175900EFBD09 /* ZPGiftModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZPGiftModel.swift; sourceTree = "<group>"; };
+		18682EE62622177C00EFBD09 /* ZPGiftChannelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZPGiftChannelView.swift; sourceTree = "<group>"; };
+		18682EEE2622179700EFBD09 /* ZPGiftDigitLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZPGiftDigitLabel.swift; sourceTree = "<group>"; };
+		18682EF3262217CE00EFBD09 /* ZPGiftContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZPGiftContainerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +107,7 @@
 		18682E91262213F700EFBD09 /* 直播送礼物部件 */ = {
 			isa = PBXGroup;
 			children = (
+				18682EC5262215C500EFBD09 /* HYGiftAnimation */,
 				18682E92262213F700EFBD09 /* AppDelegate.swift */,
 				18682E94262213F700EFBD09 /* SceneDelegate.swift */,
 				18682E96262213F700EFBD09 /* ViewController.swift */,
@@ -126,6 +135,17 @@
 				18682EB6262213FC00EFBD09 /* Info.plist */,
 			);
 			path = "直播送礼物部件UITests";
+			sourceTree = "<group>";
+		};
+		18682EC5262215C500EFBD09 /* HYGiftAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				18682EDE2622175900EFBD09 /* ZPGiftModel.swift */,
+				18682EE62622177C00EFBD09 /* ZPGiftChannelView.swift */,
+				18682EEE2622179700EFBD09 /* ZPGiftDigitLabel.swift */,
+				18682EF3262217CE00EFBD09 /* ZPGiftContainerView.swift */,
+			);
+			path = HYGiftAnimation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -258,9 +278,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18682EEF2622179700EFBD09 /* ZPGiftDigitLabel.swift in Sources */,
+				18682EE72622177C00EFBD09 /* ZPGiftChannelView.swift in Sources */,
 				18682E97262213F700EFBD09 /* ViewController.swift in Sources */,
 				18682E93262213F700EFBD09 /* AppDelegate.swift in Sources */,
 				18682E95262213F700EFBD09 /* SceneDelegate.swift in Sources */,
+				18682EF4262217CE00EFBD09 /* ZPGiftContainerView.swift in Sources */,
+				18682EDF2622175900EFBD09 /* ZPGiftModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

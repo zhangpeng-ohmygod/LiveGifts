@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1DEED42C-47A0-4D32-947C-2CD58679CE5B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "031CE7BE-402B-457F-81FD-784009EB6CF4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftChannelView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "setupUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE188740-66C9-4C23-B5CF-5559E2146D69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftChannelView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "layoutSubviews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C67C9CF-9C70-4F3D-84BB-836D834D977F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftChannelView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "addOnceToCache()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36929948-DD3C-4D41-B3E0-EF54369C2B56"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftChannelView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "loadFromNib()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2083D8F0-7B9B-4C82-B748-DF5BFA69CD31"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftChannelView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC023270-2605-47D2-B59C-43153280FDD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftChannelView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DB7D130-6B9B-4742-9465-EF07B3B04C31"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "setupUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2670893A-314C-4034-806A-D186C92C923A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "setupUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37CFD24F-1C08-4B37-A51F-8DE85333C67B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "gift1(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E2D0BD6-4CA4-418E-BC77-A5818AFBAB72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "gift1(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E5B75F6-51D9-45E3-AA0F-846F7B122FE1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90439865-CBB6-4CEF-B081-B787AB858F06"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB62E4DF-F80A-4C5F-B1B3-3272C57A60DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "showGiftModel(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FBF8393-22F4-4816-937E-4830999923FF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "showGiftModel(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3212546E-94B1-4675-A8DB-21A53634BAF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "showGiftModel(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB911C7D-8A16-4830-844F-7ED61B73B8E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "checkUsingChanelView(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37CD3020-98CF-4B5C-93C8-4A78124C4815"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "checkIdleChannelView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20D2CB23-8CEA-4D04-BD24-626D02375832"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "showGiftModel(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FAE6157-FAD7-4D57-804C-37C0BBD60517"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "showGiftModel(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE194B08-CF58-462C-9B7F-17BC2523C286"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "checkUsingChanelView(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E781362F-61C9-45A0-B333-2B834B4BBBBC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "checkUsingChanelView(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D814ECC-08DE-4EBD-A9D5-68DE6CC9709A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "checkUsingChanelView(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16080207-51BB-4CB4-A86A-97C7B493E7EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "checkIdleChannelView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01728EC9-A693-4061-BF13-3275D462C495"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "checkIdleChannelView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92A73EDE-5BC4-4227-A758-13C4B6C59F96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "checkUsingChanelView(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C8F969B-13B0-4229-861F-5F920BC4E511"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftChannelView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "giftModel"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8C8F969B-13B0-4229-861F-5F920BC4E511 - d79be473267e10d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;.ZPGiftChannelView.init(frame: __C.CGRect) -&gt; &#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;.ZPGiftChannelView"
+                  moduleName = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE%E7%BB%83%E4%B9%A0/%E7%9B%B4%E6%92%AD%E9%80%81%E7%A4%BC%E7%89%A9%E9%83%A8%E4%BB%B6/%E7%9B%B4%E6%92%AD%E9%80%81%E7%A4%BC%E7%89%A9%E9%83%A8%E4%BB%B6/HYGiftAnimation/ZPGiftChannelView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1531">
+               </Location>
+               <Location
+                  uuid = "8C8F969B-13B0-4229-861F-5F920BC4E511 - e00693d80e7ab24c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;.ZPGiftChannelView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;.ZPGiftChannelView&gt;"
+                  moduleName = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE%E7%BB%83%E4%B9%A0/%E7%9B%B4%E6%92%AD%E9%80%81%E7%A4%BC%E7%89%A9%E9%83%A8%E4%BB%B6/%E7%9B%B4%E6%92%AD%E9%80%81%E7%A4%BC%E7%89%A9%E9%83%A8%E4%BB%B6/HYGiftAnimation/ZPGiftChannelView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1340">
+               </Location>
+               <Location
+                  uuid = "8C8F969B-13B0-4229-861F-5F920BC4E511 - dc99c28c18e6d5c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;.ZPGiftChannelView.giftModel.getter : Swift.Optional&lt;&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;.ZPGiftModel&gt;"
+                  moduleName = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE%E7%BB%83%E4%B9%A0/%E7%9B%B4%E6%92%AD%E9%80%81%E7%A4%BC%E7%89%A9%E9%83%A8%E4%BB%B6/%E7%9B%B4%E6%92%AD%E9%80%81%E7%A4%BC%E7%89%A9%E9%83%A8%E4%BB%B6/HYGiftAnimation/ZPGiftChannelView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "8C8F969B-13B0-4229-861F-5F920BC4E511 - b6410d857280d1f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;.ZPGiftChannelView.giftModel.setter : Swift.Optional&lt;&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;.ZPGiftModel&gt;"
+                  moduleName = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE%E7%BB%83%E4%B9%A0/%E7%9B%B4%E6%92%AD%E9%80%81%E7%A4%BC%E7%89%A9%E9%83%A8%E4%BB%B6/%E7%9B%B4%E6%92%AD%E9%80%81%E7%A4%BC%E7%89%A9%E9%83%A8%E4%BB%B6/HYGiftAnimation/ZPGiftChannelView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "175">
+               </Location>
+               <Location
+                  uuid = "8C8F969B-13B0-4229-861F-5F920BC4E511 - c79d13b32cc3aed8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;.ZPGiftChannelView.giftModel.modify : Swift.Optional&lt;&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;.ZPGiftModel&gt;"
+                  moduleName = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE%E7%BB%83%E4%B9%A0/%E7%9B%B4%E6%92%AD%E9%80%81%E7%A4%BC%E7%89%A9%E9%83%A8%E4%BB%B6/%E7%9B%B4%E6%92%AD%E9%80%81%E7%A4%BC%E7%89%A9%E9%83%A8%E4%BB%B6/HYGiftAnimation/ZPGiftChannelView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "8C8F969B-13B0-4229-861F-5F920BC4E511 - 2824ba321de0a8a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;.ZPGiftChannelView.giftModel.modify : Swift.Optional&lt;&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;.ZPGiftModel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE%E7%BB%83%E4%B9%A0/%E7%9B%B4%E6%92%AD%E9%80%81%E7%A4%BC%E7%89%A9%E9%83%A8%E4%BB%B6/%E7%9B%B4%E6%92%AD%E9%80%81%E7%A4%BC%E7%89%A9%E9%83%A8%E4%BB%B6/HYGiftAnimation/ZPGiftChannelView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "10">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFA268EB-0082-47C7-9CD1-9ACC3E861300"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftChannelView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "performAnimation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F938E024-BF02-42D3-A7E8-8409D9F3052F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftChannelView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "performDigitAnimation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4D66E9A-1599-49EB-8FEC-30CEE3101ACA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftChannelView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "performEndAnimation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8063D3D6-0347-4DD3-9929-2C032045532E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftChannelView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "addOnceToCache()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D60923D3-2999-4757-B023-AF5EA625F704"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x76f4;&#x64ad;&#x9001;&#x793c;&#x7269;&#x90e8;&#x4ef6;/HYGiftAnimation/ZPGiftContainerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "checkIdleChannelView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
